@@ -1,8 +1,20 @@
-# 💫 About Me:  
-🔭 I’m currently working as an **Associate Java Developer**  
-⚙️ I specialize in **CI/CD pipelines** and **Docker** to streamline and automate development workflows.  
-💬 Always open to discussing **Java development** and **software engineering best practices**!  
-⚡ Fun fact: I can fall asleep in seven minutes!
+💻 DevOps Engineer | Cloud & Automation Enthusiast 🚀
+🔹 Passionate about automating infrastructure, optimizing cloud environments, and streamlining software delivery.
+
+🔹 Expertise in:
+
+CI/CD Pipelines: Automating deployments using GitHub Actions, Jenkins, and GitLab CI/CD.
+Cloud & Infrastructure: AWS | Azure | GCP | Terraform | Ansible | Helm.
+Containerization & Orchestration: Docker | Kubernetes | Kubernetes Operators.
+Monitoring & Security: Prometheus | Grafana | ELK Stack | Security best practices.
+🔹 What I Do:
+✔ Automate & optimize DevOps workflows.
+✔ Build scalable, resilient cloud infrastructures.
+✔ Enhance security & monitoring for high-availability systems.
+
+💬 Always open to discussing DevOps, cloud architecture, and automation strategies!
+
+⚡ Fun fact: I can deploy infrastructure faster than I fall asleep in seven minutes! 😆
 
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-saini1311/)  
